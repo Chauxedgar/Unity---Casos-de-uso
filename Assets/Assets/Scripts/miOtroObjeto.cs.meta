@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bcec775a9dfaf044aa10ff669c3ddec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabDosBaias: {fileID: 7772212610894293155, guid: 651252ef31e31a546afc84daf40b0141, type: 3}
+  - sonidoDisparo: {fileID: 8300000, guid: 6eb66453734c1ed4a82ad07434c1f051, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
